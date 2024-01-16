@@ -1,0 +1,2 @@
+# Classification-of-Protein-Stability-Using-Machine-Learning-And-Neural-Networks
+This project uses the Dataset 'Change in protein stability with a single mutation' by Tsuboyama, K., Dauparas, J., Chen, J. et al. It was a Mega-scale experimental analysis of protein folding stability in biology and design. Employs various ML models like KNN, Naive Bayes, Logistic Regression, Support Vector Machines(SVM) and Neural Networks.
